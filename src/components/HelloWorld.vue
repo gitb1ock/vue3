@@ -118,9 +118,6 @@ export default defineComponent({
   props: {
     msg: String,
   },
-
-
-
 });
 </script>
 
